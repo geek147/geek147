@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer
 ----------------
 
-My name is Ilham Aulia Malik. Currently work as Schoters.com as Flutter Developer. I usually work using Java, Kotlin and Flutter. Glad to e-meet you
+My name is Ilham Aulia Malik. I usually work using Java, Kotlin and Flutter. Glad to e-meet you
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [ilhamaulia.malik@gmail.com](mailto:ilhamaulia.malik@gmail.com)
