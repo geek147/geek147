@@ -8,7 +8,7 @@ My name is Ilham Aulia Malik. I usually work using Java, Kotlin and Flutter. Gla
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [ilhamaulia.malik@gmail.com](mailto:ilhamaulia.malik@gmail.com)
-* 🚀  I'm currently working on [Schoters](http://schoters.com/id)
+* 🚀  Open for new opportunity as Software Developer
 
 ### Skills
 
